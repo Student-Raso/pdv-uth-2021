@@ -4,7 +4,9 @@ using System.Text;
 
 namespace LibBD
 {
-    class Order
+    public enum Order
     {
+        ASC,
+        DESC
     }
 }

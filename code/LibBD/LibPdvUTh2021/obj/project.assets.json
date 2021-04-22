@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\hello\\.nuget\\packages\\": {},
+    "C:\\Users\\irism_000\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hello\\source\\repos\\LibBD\\LibPdvUTh2021\\LibPdvUTh2021.csproj",
+      "projectUniqueName": "C:\\Users\\irism_000\\source\\repos\\DesktopApps\\raso\\pdv-uth-2021\\code\\LibBD\\LibPdvUTh2021\\LibPdvUTh2021.csproj",
       "projectName": "LibPdvUTh2021",
-      "projectPath": "C:\\Users\\hello\\source\\repos\\LibBD\\LibPdvUTh2021\\LibPdvUTh2021.csproj",
-      "packagesPath": "C:\\Users\\hello\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hello\\source\\repos\\LibBD\\LibPdvUTh2021\\obj\\",
+      "projectPath": "C:\\Users\\irism_000\\source\\repos\\DesktopApps\\raso\\pdv-uth-2021\\code\\LibBD\\LibPdvUTh2021\\LibPdvUTh2021.csproj",
+      "packagesPath": "C:\\Users\\irism_000\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\irism_000\\source\\repos\\DesktopApps\\raso\\pdv-uth-2021\\code\\LibBD\\LibPdvUTh2021\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\irism_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
