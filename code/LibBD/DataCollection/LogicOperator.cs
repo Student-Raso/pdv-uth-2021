@@ -4,8 +4,10 @@ using System.Text;
 
 namespace LibBD
 {
-    class LogicOperator
+    public enum LogicOperator
     {
-        public string parseLogicOperator(LogicOperator op)
+        AND, 
+        OR, 
+        NOTHING
     }
 }
